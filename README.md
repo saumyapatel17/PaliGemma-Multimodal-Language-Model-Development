@@ -137,10 +137,10 @@ Contributions are welcome! Feel free to submit issues or pull requests. If you'd
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Additional Resources
-
-## https://www.youtube.com/watch?v=vAmKB7iPkWw
-
 ### Conclusion
 
 The PaliGemma repository provides an easy-to-use framework for running multi-modal inference tasks using text and image data. With configurable parameters for text generation and seamless integration with GPU/CPU resources, this model is highly adaptable for various creative and practical applications.
+
+## Additional Resources
+
+https://www.youtube.com/watch?v=vAmKB7iPkWw
